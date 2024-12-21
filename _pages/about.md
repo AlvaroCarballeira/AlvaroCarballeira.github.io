@@ -18,8 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year Ph.D. student in the Department of Mathematics at Brown University, where I am advised by [Javier Gómez-Serrano](https://sites.brown.edu/jgs/). My main interest is the analysis of partial differential equations. My intention is to use traditional analysis together with numerical results to build rigorous computer-assisted proofs. Most recently I have been studing some equations related to fluid mechanics and quantum-mechanical phenomena.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2024 I finished my Master's degree at Univesidad Autónoma de Madrid (Spain). At the same time I had a position as a young reseracher at [ICMAT](https://www.icmat.es/). My Master's thesis consisted on variational techniques used in phase-field modelling. It was supervised by [María del Mar González](https://matematicas.uam.es/~maria.gonzalez/) and [Marco Antonio Fontelos](https://www.icmat.es/mafontelos).
