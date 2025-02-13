@@ -22,4 +22,6 @@ I am a first-year Ph.D. student in the Department of Mathematics at Brown Univer
 
 In 2024 I finished my Master's degree at Univesidad Autónoma de Madrid (Spain). At the same time I had a position as a young reseracher at [ICMAT](https://www.icmat.es/). My Master's thesis consisted on variational techniques used in phase-field modelling. Before that I did my Bachelor's thesis on physics-informed neural networks.
 
-Here is a copy of my [CV](/assets/pdf/AlvaroCarballeira_CV.pdf). Last updated in November 2024.
+Here is a copy of my [CV](/assets/pdf/AlvaroCarballeira_CV.pdf). Last updated in February 2025.
+
+Contact: alvaro_carballeira_mora<at>brown.edu
