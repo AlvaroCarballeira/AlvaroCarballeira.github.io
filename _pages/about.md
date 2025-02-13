@@ -24,4 +24,4 @@ In 2024 I finished my Master's degree at Univesidad Autónoma de Madrid (Spain).
 
 Here is a copy of my [CV](/assets/pdf/AlvaroCarballeira_CV.pdf). Last updated in February 2025.
 
-Contact: alvaro_carballeira_mora<at>brown.edu
+Contact: alvaro_carballeira_mora\[at\]brown.edu
