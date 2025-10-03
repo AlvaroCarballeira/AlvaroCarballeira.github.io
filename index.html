@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alvaro Carballeira</title>
+    <style>
+        body {
+            background-color: #282828; /* Dark Slate Gray */
+            color: #f3f4f6; /* Light Gray */
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 2rem;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+        }
+        header, section, footer {
+            margin-bottom: 2rem;
+        }
+        h1, h2, h3 {
+            color: #ffffff;
+            font-weight: 300;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 0.5rem;
+        }
+        h2 {
+            font-size: 1.5rem;
+            color: #9ca3af; /* Medium Gray */
+            margin-top: 0;
+            font-style: italic;
+        }
+        a {
+            color: #60a5fa; /* Light Blue */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid #4b5563; /* Gray */
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        .profile-picture {
+            float: left;
+            margin-right: 2rem;
+            margin-bottom: 1rem;
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        footer {
+            text-align: center;
+            font-size: 0.9rem;
+            color: #9ca3af;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Alvaro Carballeira</h1>
+            <h2>Ph.D. Student. Department of Mathematics. Brown University. </h2>
+        </header>
+
+        <hr>
+
+        <main>
+            <section class="clearfix">
+                <h3>About Me</h3>
+                <!-- Replace this with a real picture of you! -->
+                <img src="profile_pic.jpg" alt="A picture of Alvaro Carballeira" class="profile-picture">
+                <p>
+                I am a second-year Ph.D. student in the Department of Mathematics at <a href='https://mathematics.brown.edu/' target='_blank'>Brown University</a>, where I am advised by <a href='https://sites.brown.edu/jgs/' target='_blank'>Javier Gómez-Serrano</a>. My main interest is the analysis of partial differential equations. My intention is to use traditional analysis together with numerical results to build rigorous computer-assisted proofs. Most recently I have been studying some equations related to fluid mechanics and quantum-mechanical phenomena.
+                </p>
+                <p>
+                In 2024 I finished my Master’s degree at Univesidad Autónoma de Madrid (Spain). At the same time I had a position as a young reseracher at ICMAT. My Master’s thesis consisted on variational techniques used in phase-field modelling. Before that I did my Bachelor’s thesis on physics-informed neural networks.
+                </p>
+
+                <p>
+                I also co-organize the Mathematics Graduate Student Seminar at Brown University.
+                </p>
+                <p>
+            </section>
+
+            <section>
+                <h3>Curriculum Vitae</h3>
+                <p>
+                    Here is a copy of my CV. Last updated in October 2025.
+                </p>
+                <!-- Make sure to replace "your_cv.pdf" with the actual path to your file -->
+                <p><a href="AlvaroCarballeira_CV.pdf" target="_blank">CV (PDF)</a></p>
+            </section>
+
+            <section>
+                <h3>Contact</h3>
+                <p>
+                    You can reach out to me via email at: <a href="mailto:alvaro_carballeira_mora@brown.edu">alvaro_carballeira_mora@brown.edu</a>
+                </p>
+            </section>
+        </main>
+
+        <hr>
+
+        <footer>
+            <p>&copy; 2025 Alvaro Carballeira</p>
+        </footer>
+    </div>
+
+</body>
+</html>
